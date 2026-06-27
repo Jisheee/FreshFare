@@ -1,0 +1,7 @@
+rene password
+Customer Details
+Espena, Rene
+Email Address: sample@email.com
+Contact Number: 99999999
+Birthday: September 11
+Username and Password: rene password

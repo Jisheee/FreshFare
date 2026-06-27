@@ -1,0 +1,6 @@
+aaaa pass
+Customer Details
+Villaruz, Jc
+Email Address: 
+Birthday: January 1
+Username and Password: aaaa pass
